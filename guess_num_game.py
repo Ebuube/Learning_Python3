@@ -110,6 +110,9 @@ def play():
 	result(usr_guess, cmpt_guess)
 # end of function
 
+
+# Program starts officially
+
 intro()
 
 play()
