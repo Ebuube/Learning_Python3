@@ -5,7 +5,7 @@
 import random
 import math    # for log2()
 
-# the number of trials for th user
+# A string to demarcate sections of the game
 line = ('=' * 60) + '\n'
 
 # Introduce the game to the user
